@@ -3,5 +3,5 @@ The problem set was to predict that which customer will visit the upcoming new s
 
 I secured rank 10 in the competetion . 
 
-#### Aproach
-My approach towards the problem was simple rule based segregation of the customers and mapping thier corresponding stores.
+#### Approach
+My approach towards the problem was simple rule based segregation of the customers base and mapping thier corresponding stores on the basis of distance travelled.
