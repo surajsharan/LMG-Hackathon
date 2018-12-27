@@ -1,5 +1,4 @@
-# LMG-Hackathon
-The problem set was to predict that which customer will visit the upcoming new stores . 
+# LMG Analytics & Data Science Hiring Challenge in November, 2018 on HackerEarth
 
 ## Introduction:
 Landmark Group and hackerearth presents an amazing opportunity to showcase one's analytical abilities and talent.
@@ -25,8 +24,11 @@ Max is a fashion brand within Landmark Group and has launched certain new stores
 ### Evaluation Method
 **F1 – Score at Customer Store level in the Test_Set for 1’s (Customers who buy in new stores) .**
 
-### Approach
+
+## Approach
 My approach towards the problem was simple rule based segregation of the customers base and mapping thier corresponding stores on the basis of distance travelled. I had calculated the distance from the new coming stores to all the rest of stores, thereby giving me a proximate periphery of what stores are likely to be visited, on the basis of distance.
+
+
 
 
 ### Leaderboard
