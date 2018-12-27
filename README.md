@@ -1,3 +1,5 @@
+![title](Landmark_Group.jpg)
+
 # LMG Analytics & Data Science Hiring Challenge in November, 2018 on HackerEarth
 
 ## Introduction:
